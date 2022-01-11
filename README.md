@@ -66,10 +66,10 @@ Here is the schema and explanation of each variable in the files:
 
 You can see how to access the terminal and how the install works using the two images below.  First you need to access the terminal:
 
-<img src="pic1.gif"/>
+<img src="pic1.jpg"/>
 
 Then you will want to run the above command:
 
-<img src="pic2.gif"/>
+<img src="pic2.jpg"/>
 
 Finally, when you enter back into the notebook (use the jupyter icon again), you should be able to run the below cell without any errors.
