@@ -73,3 +73,4 @@ Then you will want to run the above command:
 <img src="pic2.jpg"/>
 
 Finally, when you enter back into the notebook (use the jupyter icon again), you should be able to run the below cell without any errors.
+### Licensing, Authors and Acknowlegements
