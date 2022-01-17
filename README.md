@@ -69,8 +69,14 @@ In order to run the Jupyter notebook you will need to have python 3 installed an
 <li>Seaborn
 </ul>
 
-Results
-There is a list of findings through the project and the main findings can be found in the <a href="https://medium.com/@ccao519/customer-behaviors-on-starbucks-offers-and-rewards-7c7c25539bc6"> Medium post here </a> 
+### Results
+There is a list of findings through the project <br>
+example: <br>
+customers completed the number of discount offers is more than the completed BOGO offers; female customers completed more offer than any other gender group;there are 6 members don't receive any offers etc. <br>
+
+The project used decision tree and logistic regression models to predict whether a customer will complete an offer when he/she receives one.<br>
+
+And the main findings can be found in the <a href="https://medium.com/@ccao519/customer-behaviors-on-starbucks-offers-and-rewards-7c7c25539bc6"> Medium post here </a> 
 
 ### Licensing, Authors and Acknowlegements
 The data set is imulated data that mimics customer behavior on the Starbucks rewards mobile app and open to public. 
