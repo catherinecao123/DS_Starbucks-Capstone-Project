@@ -70,7 +70,7 @@ In order to run the Jupyter notebook you will need to have python 3 installed an
 </ul>
 
 Results
-There is a list of findings through the project and the main findings can be found in the <a href="https://medium.com/@ccao519/customer-behaviors-on-starbucks-offers-and-rewards-7c7c25539bc6" Medium post here </a> 
+There is a list of findings through the project and the main findings can be found in the <a href="https://medium.com/@ccao519/customer-behaviors-on-starbucks-offers-and-rewards-7c7c25539bc6"> Medium post here </a> 
 
 ### Licensing, Authors and Acknowlegements
 The data set is imulated data that mimics customer behavior on the Starbucks rewards mobile app and open to public. 
